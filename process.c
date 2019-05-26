@@ -7,8 +7,6 @@
 #include "realtime.h"
 
 
-// NetID: it233, mr2265
-
 realtime_t current_time;
 
 int process_deadline_met;
